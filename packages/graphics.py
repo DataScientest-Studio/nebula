@@ -49,8 +49,8 @@ def rleToMask(rle: str, shape: tuple  =(1400, 2100)) -> np.ndarray:
 
 
 def surfaceFromRle(rle: str) -> int:
-    """Determination de la surface (en pixels) converte par le masque correspondage 
-       a l'encodage RLE specifie en parametre
+    """Determination de la surface (en pixels) converte par le masque 
+    correspondage a l'encodage RLE specifie en parametre
 
      Paramètre
      ----------
