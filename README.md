@@ -73,7 +73,7 @@ This project resulted into a streamlit application intended to show the segmenta
 The streamlit application is available at:
 <a href="https://studio.datascientest.com/project/nebula/"> Nebula demo </a>.</p>
 
-<p>Two possibilities enable to test the application on your own:
+<p>Two possibilities enable to test your own version of the application:
 </p>
 <p><b>Launch Streamlit from sources through Google Colab:</b><br>
 <i>Note: a Ngrok account is required.</i></p>
