@@ -15,13 +15,15 @@ identifying shallow cloud locations, considered as potential key factors in clim
 <br>
 In this frame, we developed a convolutional neural network model trained to identify and localize the 
 above four cloud formations.
+<br>
+More details on methodology and results are provided inside the article: <a href="https://towardsdatascience.com/silver-lining-clouds-with-ai-ff6a234786e2"> Silver-lining clouds with AI </a> published on Towards Data Science.
 
 <p align="center"> <img src = "./resources/examples.jpg"/ class="center"> </p>
 
 
 </p>
 
-# This repo content
+# Present repo content
 
 <p>
 The repository structure reflects project sequence. The nebula project was organized in 3 phases: 
@@ -68,8 +70,10 @@ The 3 related jupyter notebook are visible from the «colab» links below.
 This project resulted into a streamlit application intended to show the segmentation model in action. The sources of the application are available under the "streamlit" folder.
 </p>
 <p>
-The streamlit application URL is about to be communicated.<br>
-Two other possibilities enable to test the application:
+The streamlit application is available at:
+<a href="https://studio.datascientest.com/project/nebula/"> Nebula demo </a>.</p>
+
+<p>Two possibilities enable to test your own version of the application:
 </p>
 <p><b>Launch Streamlit from sources through Google Colab:</b><br>
 <i>Note: a Ngrok account is required.</i></p>
