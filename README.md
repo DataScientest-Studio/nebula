@@ -16,7 +16,7 @@ identifying shallow cloud locations, considered as potential key factors in clim
 In this frame, we developed a convolutional neural network model trained to identify and localize the 
 above four cloud formations.
 <br>
-More details on our methodology are provided inside our article at: <a href="https://towardsdatascience.com/silver-lining-clouds-with-ai-ff6a234786e2"> Silver-lining clouds with AI </a>
+More details on methodology and results are provided inside the article: <a href="https://towardsdatascience.com/silver-lining-clouds-with-ai-ff6a234786e2"> Silver-lining clouds with AI </a> published on Towards Data Science.
 
 <p align="center"> <img src = "./resources/examples.jpg"/ class="center"> </p>
 
@@ -71,9 +71,9 @@ This project resulted into a streamlit application intended to show the segmenta
 </p>
 <p>
 The streamlit application is available at:
-<a href="https://studio.datascientest.com/project/nebula/"> Nebula demo </a>
+<a href="https://studio.datascientest.com/project/nebula/"> Nebula demo </a>.</p>
 
-<br>Two possibilities enable to test the application on your own:
+<p>Two possibilities enable to test the application on your own:
 </p>
 <p><b>Launch Streamlit from sources through Google Colab:</b><br>
 <i>Note: a Ngrok account is required.</i></p>
